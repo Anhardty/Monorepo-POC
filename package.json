@@ -1,0 +1,5 @@
+{
+ "name": "poc-monorepo",
+ "private": true,
+ "workspaces": ["packages/*"]
+}
